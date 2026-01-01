@@ -1,5 +1,10 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on<br><br>Software engineering and full-stack development projects<br><br>Cybersecurity-aware applications (authentication, access control, secure APIs)<br><br>Tech-driven startups, open-source projects, and IT teams focused on impactful products<br><br>Projects where practical skills and execution matter more than just theory<br><br>🤝 I’m looking for help with<br><br>Advanced backend & system design patterns<br><br>Security best practices in real-world applications<br><br>Code reviews, architecture feedback, and performance optimization<br><br>Learning how production-level systems are built and secured<br><br>🌱 I’m currently learning<br><br>Cybersecurity fundamentals (IAM, secure system practices, risk awareness)<br><br>Backend scalability, database optimization, and API security<br><br>Clean code, version control workflows, and real-world software engineering standards<br><br>Exploring space technology as a technical curiosity, alongside my core IT focus<br><br>💬 Ask me about<br><br>Full-stack and backend development<br><br>Cybersecurity basics and IAM concepts<br><br>REST APIs, databases, and application logic<br><br>Turning ideas into working software products<br><br>Managing projects independently and learning beyond the syllabus<br><br>⚡ Fun fact<br><br>I’m an aspiring entrepreneur and a solo small-scale business owner.<br>Running a business independently has strengthened my decision-making, leadership, accountability, and problem-solving skills — qualities I actively bring into my technical work.
+Building secure, real-world software — not just assignments.
+
+I’m a Computer Science Engineering student focused on full-stack development with a strong interest in cybersecurity-aware systems. I build applications end-to-end, emphasizing backend logic, databases, REST APIs, and secure access control.
+
+I’m project-driven and execution-focused, with growing experience in IAM, secure backend practices, and system design. Alongside tech, I independently run a small-scale business, which has strengthened my decision-making, ownership, and problem-solving skills.
+
 
 
 ## 🌐 Socials:
